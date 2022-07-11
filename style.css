@@ -347,7 +347,8 @@ body{
 }
 .footer_container{
     display: flex;
-    align-items: center; 
+    align-items: center;
+    padding-bottom: 200px; 
 }
 .pfs{
     list-style: none;
